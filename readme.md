@@ -108,7 +108,7 @@ print('myListC, hasil penambahan list A dengan list B:', myListC);
 ```
 
 ## Hasil programnya
-![Alt text](Gambar/alvin1.png)
+![Alt text](Gambar/image.png)
 
 ## Tugas praktikum
 Buat program sederhana untuk menambahkan data kedalam sebuah
@@ -125,7 +125,7 @@ list dengan rincian sebagai berikut:
 - Commit dan push repository ke github.
 
 ## Flowchartnya
-![Alt text](flowchart/flowchart.png)
+![Alt text](flowchart/image-1.png)
 
 
 ## Kode program
@@ -172,4 +172,4 @@ for nama, nim, Tugas, UTS, UAS, nilaiAkhir in zip(nama, nim, nilaiTugas, nilaiUT
 print("+----+-----------------------+--------+--------+-------+-------+---------+")
 ```
 ## Maka Output Programnya
-![Alt text](Gambar/alvin2.png)
+![Alt text](Gambar/image-2.png)
