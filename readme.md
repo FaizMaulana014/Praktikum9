@@ -125,7 +125,7 @@ list dengan rincian sebagai berikut:
 - Commit dan push repository ke github.
 
 ## Flowchartnya
-![Alt text](flowchart/image-1.png)
+![Alt text](Gambar/image-1.png)
 
 
 ## Kode program
