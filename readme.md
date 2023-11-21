@@ -56,7 +56,7 @@ print("Elemen terakhir:", my_list[-1])
 print("SEBELUM ELEMEN KE 4 DI UBAH :", my_list[3])
 # Mengubah nilai elemen ke 4 variable my_list menjadi 450
 my_list[3] = 450
-# Menampilkan variable my_list Elemen ke 4 SebSetelah di ubah
+# Menampilkan variable my_list Elemen ke 4 Setelah di ubah
 print("SETELAH ELEMEN KE 4 DI UBAH :", my_list[3])
 
 ```
