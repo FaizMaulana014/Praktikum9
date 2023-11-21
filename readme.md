@@ -174,4 +174,6 @@ print("+----+-----------------------+--------+--------+-------+-------+---------
 ## Maka Output Programnya
 ![Alt text](Gambar/image-2.png)
 
-# Terima Kasih
+<h1 align="center">
+  Terima Kasih
+</h1>
